@@ -13,6 +13,8 @@ Prepare the lists from each linear equations and assign in np.array()
 Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
+
+
 ## Program:
 
 <img width="1317" height="821" alt="image" src="https://github.com/user-attachments/assets/7d9f468b-ab10-4255-a485-2e30383c9364" />
